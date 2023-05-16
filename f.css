@@ -141,7 +141,7 @@ font-size: 2rem;
 #moreinfo  .coding img{
       height: 19rem;
       margin-left: 2rem;
-      margin-bottom: 19rem;
+      margin-bottom: 23rem;
       display: flex;
       flex-direction: column;
       /* position: absolute; */
@@ -156,7 +156,7 @@ font-size: 2rem;
       /* margin-top: -20em; */
       /* float: left; */
       position: absolute;
-      top: 95rem;
+      top: 101rem;
         left: 2rem;
       /* margin-bottom: 26em; */
     }
